@@ -1,13 +1,14 @@
 <!-- Profile Visitors Badge -->
-<a href="https://komarev.com/ghpvc/?username=bailonpaucar">
-  <img align="right" src="https://komarev.com/ghpvc/?username=bailonpaucar&label=Visitors&color=0e75b6&style=flat" alt="Profile visitor" />
-</a>
+<p align="right">
+  <a href="https://komarev.com/ghpvc/?username=bailonpaucar">
+    <img src="https://komarev.com/ghpvc/?username=bailonpaucar&label=Visitors&color=0e75b6&style=flat" alt="Profile visitor" />
+  </a>
+</p>
 
 <!-- Intro -->
-<h5 align="center">
-  <samp>&gt; ¡Hola! Soy <b>Bailon Paucar</b> 👋
-  </samp>
-</h5>
+<h2 align="center">
+  <samp>¡Hola! Soy <b>Bailon Paucar</b> 👋</samp>
+</h2>
 
 <p align="center"> 
   <samp>
@@ -29,26 +30,29 @@
   </a>
 </p>
 
-<br/>
-
 <!-- About Section -->
-## Acerca de mí
+<h2 align="center">Acerca de mí</h2>
 
-<p>
-  <img align="right" width="350" src="https://your-image-url.com/programmer.gif" alt="Coding gif" />
-  
-  ✌️ &emsp; Disfruto programando y compartiendo conocimientos <br/><br/>
-  ❤️ &emsp; Me encanta escribir código y aprender nuevas tecnologías<br/><br/>
-  📧 &emsp; Puedes contactarme en cualquier momento: paucarmontesbailon@gmail.com<br/><br/>
-  💬 &emsp; ¡Pregúntame cualquier cosa! [aquí](https://github.com/bailonpaucar/bailonpaucar/issues)
+<p align="center">
+  <img align="right" width="300" src="https://your-image-url.com/programmer.gif" alt="Coding gif" />
+  ✌️ Disfruto programando y compartiendo conocimientos <br/>
+  ❤️ Me encanta escribir código y aprender nuevas tecnologías<br/>
+  📧 Puedes contactarme en cualquier momento: paucarmontesbailon@gmail.com<br/>
+  💬 ¡Pregúntame cualquier cosa! [aquí](https://github.com/bailonpaucar/bailonpaucar/issues)
 </p>
 
-<br/>
-<br/>
-<br/>
+<!-- Languages and Tools Section -->
+<h2 align="center">Herramientas y Tecnologías</h2>
 
-
-<h3 align="left">Languages and Tools:</h3>
-
-  
-<div style="display: flex; align-items: flex-start;"><img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="65" height="65" /><img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="65" height="65" /><img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="icon" width="65" height="65" /><img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="65" height="65" /><img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="65" height="65" /><img src="https://techstack-generator.vercel.app/django-icon.svg" alt="icon" width="65" height="65" /><img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="icon" width="65" height="65" /><img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="65" height="65" /></div><div style="display: flex; align-items: flex-start;"><img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="65" height="65" /><img src="https://techstack-generator.vercel.app/rescript-icon.svg" alt="icon" width="65" height="65" /></div>
+<p align="center">
+  <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="Java" width="65" height="65" />
+  <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="MySQL" width="65" height="65" />
+  <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="Docker" width="65" height="65" />
+  <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="GitHub" width="65" height="65" />
+  <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="65" height="65" />
+  <img src="https://techstack-generator.vercel.app/django-icon.svg" alt="Django" width="65" height="65" />
+  <img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="REST API" width="65" height="65" />
+  <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" width="65" height="65" />
+  <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="TypeScript" width="65" height="65" />
+  <img src="https://techstack-generator.vercel.app/rescript-icon.svg" alt="ReScript" width="65" height="65" />
+</p>
