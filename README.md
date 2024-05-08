@@ -37,9 +37,10 @@
   <img align="right" width="300" src="https://your-image-url.com/programmer.gif" alt="Coding gif" />
   ✌️ Disfruto programando y compartiendo conocimientos <br/>
   ❤️ Me encanta escribir código y aprender nuevas tecnologías<br/>
-  📧 Puedes contactarme en cualquier momento: paucarmontesbailon@gmail.com<br/>
-  💬 ¡Pregúntame cualquier cosa! [aquí](https://github.com/bailonpaucar/bailonpaucar/issues)
+  📧 Puedes contactarme en cualquier momento: <a href="mailto:paucarmontesbailon@gmail.com">paucarmontesbailon@gmail.com</a><br/>
+  💬 ¡Pregúntame cualquier cosa! <a href="https://github.com/bailonpaucar/bailonpaucar/issues">aquí</a>
 </p>
+
 
 <!-- Languages and Tools Section -->
 <h2 align="center">Herramientas y Tecnologías</h2>
