@@ -1,19 +1,52 @@
-<p align="center">
-  <img src="https://your-image-url.com/here.png" alt="Bailon Paucar" width="200"/>
-</p>
-<h1 align="center">Hi 👋, I'm Bailon Paucar</h1>
-<h3 align="center">A passionate fullstack developer from Peru</h3>
+<!-- Profile Visitors Badge -->
+<a href="https://komarev.com/ghpvc/?username=bailonpaucar">
+  <img align="right" src="https://komarev.com/ghpvc/?username=bailonpaucar&label=Visitors&color=0e75b6&style=flat" alt="Profile visitor" />
+</a>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/bailonpaucar/"><img src="https://img.shields.io/badge/-Bailon%20Paucar-blue?style=flat&logo=Linkedin&logoColor=white"/></a>
-  <a href="mailto:paucarmontesbailon@gmail.com"><img src="https://img.shields.io/badge/-Contact%20Me-red?style=flat&logo=Gmail&logoColor=white"/></a>
+<!-- Intro -->
+<h3 align="center">
+  <samp>&gt; ¡Hola! Soy <b>Bailon Paucar</b> 👋
+  </samp>
+</h3>
+
+<p align="center"> 
+  <samp>
+    🚀 Desarrollador fullstack apasionado de Perú 🇵🇪 <br/>
+    💻 Actualmente trabajando en **Padma Peru** <br/>
+    🌱 Aprendiendo React <br/>
+    💬 Pregúntame sobre Java | Spring | Angular | MySQL <br/>
+    📧 Cómo contactarme: paucarmontesbailon@gmail.com <br/>
+    <a href="https://www.linkedin.com/in/bailonpaucar/">🔗 Mis proyectos en LinkedIn</a>
+  </samp>
 </p>
 
+<!-- Social Media Links -->
 <p align="center">
-  🔭 I’m currently working on **Padma Peru**<br/>
-  🌱 I’m currently learning **React**<br/>
-  💬 Ask me about **Java | Spring | Angular | MySQL**
+  <a href="https://www.linkedin.com/in/bailonpaucar/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="bailonpaucar LinkedIn"/>
+  </a>
+  <a href="mailto:paucarmontesbailon@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Contact%20Me-red?style=for-the-badge&logo=Gmail&logoColor=white" alt="bailonpaucar Gmail"/>
+  </a>
 </p>
+
+<br/>
+
+<!-- About Section -->
+## Acerca de mí
+
+<p>
+  <img align="right" width="350" src="https://your-image-url.com/programmer.gif" alt="Coding gif" />
+  
+  ✌️ &emsp; Disfruto programando y compartiendo conocimientos <br/><br/>
+  ❤️ &emsp; Me encanta escribir código y aprender nuevas tecnologías<br/><br/>
+  📧 &emsp; Puedes contactarme en cualquier momento: paucarmontesbailon@gmail.com<br/><br/>
+  💬 &emsp; ¡Pregúntame cualquier cosa! [aquí](https://github.com/bailonpaucar/bailonpaucar/issues)
+</p>
+
+<br/>
+<br/>
+<br/>
 
 
 <h3 align="left">Languages and Tools:</h3>
