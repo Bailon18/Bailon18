@@ -35,12 +35,10 @@
 
 <div align="center">
   <img align="right" width="300" src="https://your-image-url.com/programmer.gif" alt="Coding gif" />
-  <p>
-    ✌️ Disfruto programando y compartiendo conocimientos <br/>
-    ❤️ Me encanta escribir código y aprender nuevas tecnologías<br/>
-    📧 Puedes contactarme en cualquier momento: <a href="mailto:paucarmontesbailon@gmail.com">paucarmontesbailon@gmail.com</a><br/>
-    💬 ¡Pregúntame cualquier cosa! <a href="https://github.com/bailonpaucar/bailonpaucar/issues">aquí</a>
-  </p>
+  <p>✌️ Disfruto programando y compartiendo conocimientos</p>
+  <p>❤️ Me encanta escribir código y aprender nuevas tecnologías</p>
+  <p>📧 Puedes contactarme en cualquier momento: <a href="mailto:paucarmontesbailon@gmail.com">paucarmontesbailon@gmail.com</a></p>
+  <p>💬 ¡Pregúntame cualquier cosa! <a href="https://github.com/bailonpaucar/bailonpaucar/issues">aquí</a></p>
 </div>
 
 
