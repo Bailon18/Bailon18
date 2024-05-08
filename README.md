@@ -4,19 +4,18 @@
 </a>
 
 <!-- Intro -->
-<h3 align="center">
+<h5 align="center">
   <samp>&gt; ¡Hola! Soy <b>Bailon Paucar</b> 👋
   </samp>
-</h3>
+</h5>
 
 <p align="center"> 
   <samp>
     🚀 Desarrollador fullstack apasionado de Perú 🇵🇪 <br/>
     💻 Actualmente trabajando en **Padma Peru** <br/>
-    🌱 Aprendiendo React <br/>
     💬 Pregúntame sobre Java | Spring | Angular | MySQL <br/>
     📧 Cómo contactarme: paucarmontesbailon@gmail.com <br/>
-    <a href="https://www.linkedin.com/in/bailonpaucar/">🔗 Mis proyectos en LinkedIn</a>
+    <a href="https://www.linkedin.com/in/bailonpaucar/">🔗 Mi portafolio</a>
   </samp>
 </p>
 
