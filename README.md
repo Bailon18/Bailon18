@@ -33,7 +33,7 @@
 <!-- About Section -->
 <h2 align="center">Acerca de mí</h2>
 
-<div align="center">
+<div>
   <img align="right" width="300" src="https://your-image-url.com/programmer.gif" alt="Coding gif" />
   <p>✌️ Disfruto programando y compartiendo conocimientos</p>
   <p>❤️ Me encanta escribir código y aprender nuevas tecnologías</p>
