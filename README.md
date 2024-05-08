@@ -33,13 +33,15 @@
 <!-- About Section -->
 <h2 align="center">Acerca de mí</h2>
 
-<p align="center">
+<div align="center">
   <img align="right" width="300" src="https://your-image-url.com/programmer.gif" alt="Coding gif" />
-  ✌️ Disfruto programando y compartiendo conocimientos <br/>
-  ❤️ Me encanta escribir código y aprender nuevas tecnologías<br/>
-  📧 Puedes contactarme en cualquier momento: <a href="mailto:paucarmontesbailon@gmail.com">paucarmontesbailon@gmail.com</a><br/>
-  💬 ¡Pregúntame cualquier cosa! <a href="https://github.com/bailonpaucar/bailonpaucar/issues">aquí</a>
-</p>
+  <p>
+    ✌️ Disfruto programando y compartiendo conocimientos <br/>
+    ❤️ Me encanta escribir código y aprender nuevas tecnologías<br/>
+    📧 Puedes contactarme en cualquier momento: <a href="mailto:paucarmontesbailon@gmail.com">paucarmontesbailon@gmail.com</a><br/>
+    💬 ¡Pregúntame cualquier cosa! <a href="https://github.com/bailonpaucar/bailonpaucar/issues">aquí</a>
+  </p>
+</div>
 
 
 <!-- Languages and Tools Section -->
