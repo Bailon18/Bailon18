@@ -13,7 +13,7 @@
 <p align="center"> 
   <samp>
     🚀 Desarrollador fullstack apasionado de Perú 🇵🇪 <br/>
-    💻 Actualmente trabajando en **Padma Peru** <br/>
+    💻 Actualmente trabajando en **NTT DATA PERU** <br/>
     💬 Pregúntame sobre Java | Spring | Angular | MySQL <br/>
     📧 Cómo contactarme: paucarmontesbailon@gmail.com <br/>
     <a href="https://www.linkedin.com/in/bailonpaucar/">🔗 Mi portafolio</a>
